@@ -35,3 +35,11 @@ I'm a passionate data analyst with a love for transforming data into actionable 
 
 ### Soft Skills:
 - Strong critical thinking and problem-solving abilities.
+
+## 🎓 Certifications
+
+- **Data Analytics/Business Analytics** by ExcelR
+- **Google Data Analytics** by Coursera
+- **Business Analysis Fundamentals** - ECBA, CCBA, CBAP endorsed by Udemy
+- **Data Analytics on Cricket** by Mad About Sports
+
