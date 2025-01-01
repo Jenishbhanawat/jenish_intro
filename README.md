@@ -43,3 +43,7 @@ I'm a passionate data analyst with a love for transforming data into actionable 
 - **Business Analysis Fundamentals** - ECBA, CCBA, CBAP endorsed by Udemy
 - **Data Analytics on Cricket** by Mad About Sports
 
+## 📞 Contact Me
+
+- **Email**: [bhanawatjenish@gmail.com](mailto:bhanawatjenish@gmail.com)
+- **Phone**: +91 9571841100
